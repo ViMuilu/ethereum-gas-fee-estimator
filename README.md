@@ -1,17 +1,16 @@
 # Ethereum Gas & Fee Estimator
 
-A tool to estimate Ethereum gas prices and transaction fees in real time.
+A full-stack project to estimate Ethereum gas prices and transaction fees in real time.
 
-## Features
-- Fetches current gas prices from public Ethereum APIs
-- Estimates transaction fees for different transaction types
-- Simple CLI and/or web interface (to be implemented)
+## Structure
+
+- `backend/` — Go REST API for Ethereum gas and fee estimation
+- `frontend/` — React.js web interface
 
 ## Getting Started
 
-1. Clone this repository
-2. Install dependencies (to be added)
-3. Run the estimator (instructions to be added)
+See the README files in each subdirectory for setup instructions.
 
 ## License
+
 MIT
